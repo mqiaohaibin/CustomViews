@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoopView">
+        <attr name="showInnerCircle" format="boolean" />
+        <attr name="innerColor" format="color" />
+        <attr name="innerRadius" format="dimension" />
+        <attr name="topColor" format="color" />
+        <attr name="bottomColor" format="color" />
+        <attr name="outterWidth" format="dimension" />
+        <attr name="angle" format="integer" />
+    </declare-styleable>
+</resources>
